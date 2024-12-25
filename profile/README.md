@@ -47,7 +47,7 @@ Cross-modal molecule representation model을 통한 ADMET/toxicity 예측 시스
 
 ## 🤝 In Collaboration with
 
-[AIGEN Sciences](https://aigensciences.com/) - Harnessing AI for Real-World Drug Discovery
+[AIGEN Sciences](https://www.aigensciences.com/) - Harnessing AI for Real-World Drug Discovery
 
 ---
 © 2024 GUACAMole Team. All Rights Reserved.
